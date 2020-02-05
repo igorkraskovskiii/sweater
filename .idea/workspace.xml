@@ -13,6 +13,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/DemoApplication.java" afterDir="false" />
@@ -28,12 +29,6 @@
       <change afterPath="$PROJECT_DIR$/sweater.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/META-INF/sweater.kotlin_module" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/DemoApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/GreetingController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/config/MvcConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/config/WebSecurityConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/domain/Message.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/sweater/repos/MessageRepo.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/templates/greeting.mustache" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/templates/login.mustache" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/templates/main.mustache" afterDir="false" />
@@ -59,7 +54,6 @@
       <change afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_7.proto" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_8.proto" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_9.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sweater-1.0-SNAPSHOT.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/sweater-1.0-SNAPSHOT.jar.original" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -241,6 +235,7 @@
       <workItem from="1573651948447" duration="11236000" />
       <workItem from="1573738348696" duration="3471000" />
       <workItem from="1580841536032" duration="4970000" />
+      <workItem from="1580917760519" duration="616000" />
     </task>
     <servers />
   </component>
@@ -252,7 +247,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
