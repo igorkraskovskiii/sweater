@@ -1,0 +1,7 @@
+organization=igorkraskovskiii-1
+projectKey=igorkraskovskiii_Fraction_Stack_LinkedList
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.4383
+dashboardUrl=https://sonarcloud.io/dashboard?id=igorkraskovskiii_Fraction_Stack_LinkedList
+ceTaskId=AXAV07VaNK1gJZ17jkkZ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXAV07VaNK1gJZ17jkkZ
